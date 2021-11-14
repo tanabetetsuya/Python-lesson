@@ -10,3 +10,9 @@ print(3/2)
 name = "python"
 
 print(name)
+
+#条件式
+
+score = 100
+if score == 100 :
+    print("よくできました")
