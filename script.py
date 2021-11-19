@@ -7,7 +7,7 @@ print(3/2)
 
 #変数定義、出力
 
-name = "python"
+name = "PYTHON"
 
 print(name)
 
