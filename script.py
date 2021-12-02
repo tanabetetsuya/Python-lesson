@@ -16,3 +16,11 @@ print(name)
 score = 100
 if score == 100 :
     print("よくできました")
+
+money = 100
+apple_price = 200
+
+if money >= apple_price :
+    print("リンゴを買うことができます")
+else :
+    print("お金が足りません")
