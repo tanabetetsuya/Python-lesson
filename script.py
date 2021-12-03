@@ -18,7 +18,7 @@ if score == 100 :
     print("よくできました")
 
 money = 100
-apple_price = 300
+apple_price = 100
 
 if money >= apple_price :
     print("リンゴを買うことができます")
