@@ -20,7 +20,11 @@ if score == 100 :
 money = 100
 apple_price = 100
 
-if money >= apple_price :
+if money > apple_price :
     print("リンゴを買うことができます")
+
+elif money == apple_price :
+    print("リンゴを買うことができますが所持金が0になります")
+
 else :
     print("お金が足りません")
